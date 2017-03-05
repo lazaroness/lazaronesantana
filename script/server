@@ -1,10 +1,14 @@
 #!/bin/bash
 path=`pwd`
-notify-send "Lazarone S. Santana" "Servidor de Desenvolvimento está no ar." -i "$path/image/server.svg"
+notify-send "Lazarone S. Santana" "Server Development is up in the air." -i "$path/image/server.svg"
 
+# URL DA APLICAÇÃO
 #url='192.168.0.17:8000'
 url='localhost:8000'
-echo "Abrindo o Firefox em: $url"
-firefox $url &
 
+# ABRINDO O NAVEGADOR NA APLICAÇÃO
+echo "Abrindo o Google Chrome em: $url"
+google-chrome $url &
+
+# SUBINDO O SERVER
 php -S $url
