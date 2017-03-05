@@ -30,7 +30,7 @@
     <a href="index.php#page-top" class="scroll-up scroll"><i class="fa fa-chevron-up"></i></a>
     <div id="topo">
         <div id="logo-topo-principal">
-            <h1><a href="#secao-1">LazaroneSantosSantana</a></h1>
+           <font size="6" style="font-weight: bold;">LazaroneSantosSantana</font>
         </div>
         <div id="menu-topo-principal">
             <ul>

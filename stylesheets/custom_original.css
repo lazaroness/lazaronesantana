@@ -1036,7 +1036,7 @@ blockquote footer {
 ------------------------------*/
 
 #footer {
-	background-color:#2F4254;
+	background-color: #2a3d51;
 	text-align:center;
 	padding:40px 0;
 	color:#FFFFFF;
@@ -1054,7 +1054,7 @@ blockquote footer {
 
 #footer .brands li a:hover {
 	color:#FFFFFF;
-	background-color:#283848;
+	background-color: #2a3d51;
 }
 
 #footer p {
