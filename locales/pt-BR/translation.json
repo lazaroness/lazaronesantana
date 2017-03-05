@@ -1,0 +1,112 @@
+{
+  "app": {
+    "name" : "i18next"
+  }
+  ,"geral" : {
+    "resumo" : "Nascido em São Paulo capital, Willians Martins de Morais possui diploma de Bacharel em Sistemas de Informação na Faculdades Integradas Rio Branco e de MBA em Desenvolvimento de Aplicações JAVA SOA na Faculdade de Informática e Administração Paulista(FIAP). Além de diversos cursos presenciais e a distância em áreas como desenvolvimento web, arquitetura, hardware, eletrônica, desenho arquitetônico, serigrafia, photoshop e outros. Com 14 anos de experiência como instrutor de Hardware, Informática, Computação Gráfica, Matemática e Desenvolvimento Web e 8 anos como Desenvolvedor Web, Willians atualmente é Professor dos cursos de Graduação da Faculdade de Informática e Administração Paulista(FIAP) e é sócio responsável pelo marketing, pesquisa de tecnologia e estratégias na Waiso.",
+    "meu-foco" : "Meu foco",
+    "foco-descricao" : "Abaixo um resumo de qual tem sido meu foco ultimamente.",
+    "foco-qualidade" : "Qualidade",
+    "foco-qualidade-descricao" : "Todas minhas decisões estão sendo baseadas em um objetivo único, ter uma qualidade de vida juntamente com minha família.",
+    "foco-experiencias" : "Experiências",
+    "foco-experiencias-descricao" : "Tenho criado diversas experiências e provas de conceitos (POC) a respeito de frameworks, módulos, ferramentas novas, inovações com deploy, gestão, otimização de código e tempo.",
+    "foco-disseminador" : "Disseminador",
+    "foco-disseminador-descricao" : "Alguns trabalhos voluntários, monitorias, aulas na graduação, palestras e curso à distância. Gosto de estar sempre compartilhando o que eu aprendi com as pessoas.",
+    "foco-java" : "Especialização em Java",
+    "foco-java-descricao" : "Vivenciando as fases do Java SE, Java ME e agora Java EE. Tenho fascínio pela linguagem e arquitetura que tem sido tão presente no mercado, embarcados ai vou eu!",
+    "direitos" : "Willians Martins - Todos direitos reservados"
+  }
+  ,"botao": {
+    "conhecame": "Me conheça melhor",
+    "contato" : "Quer falar algo pra mim?"
+  }
+  ,"mensagens": {
+    "um" : "Fazer bem feito e somente uma vez",
+    "dois" : "Se eu puder te ajudar, conte comigo",
+    "tres" : "Diversão e codificação combinam",
+    "quatro" : "Faça a diferença na vida das pessoas"
+  }
+  ,"link": {
+    "sobremim" : "Sobre mim",
+    "portifolio"  : "Portifólio",
+    "trajetorias" : "Trajetórias",
+    "curriculos" : "Currículos",
+    "treinamentos" : "Treinamentos",
+    "contato" : "Contato"
+  },
+  "numeros": {
+    "clientes" : "clientes felizes",
+    "ataques" : "ataques de gastrite",
+    "linhas" : "linhas de código",
+    "ideias" : "idéias novas",
+    "noites" : "noites viradas",
+    "buscas" : "buscas no google"
+  },
+  "orgulhos" : {
+      "titulo" : "Meus orgulhos recentes",
+      "descricao" : "Um breve relato de meus trabalhos recentes que me orgulho em apresentar.",
+      "orgulho1-titulo" : "Deploy \"automatizado\"",
+      "orgulho1-descricao" : "Tenho realizado algumas experiências com Jenkins(antigo Hudson), git, ssh e estamos nos dando muito bem.",
+      "orgulho2-titulo" : "Instâncias na Amazon",
+      "orgulho2-descricao" : "Depois de muito tempo relutando, consegui criar instâncias na amazon(ElasticIP, DNS, Segurança).",
+      "orgulho3-titulo" : "Domínio de SSH",
+      "orgulho3-descricao" : "Até que enfim agora não apanho mais com acesso remoto via tunelamento ssh, até o VIM aprendi a usar.",
+      "orgulho4-titulo" : "Git com qualidade",
+      "orgulho4-descricao" : "Sem dó e sem dor, agora está fluido, depois de fazer um cherry-pick me sinto um hacker! Estou até dando aulas, kkk."
+    },
+  "frases": {
+    "frase1-descricao" : "Conheça todas as teorias, domine todas as técnicas, mas ao tocar uma alma humana seja apenas outra alma humana.",
+    "frase1-autor" : "Carl G. Jung"
+  },
+  "portifolio": {
+    "titulo": "Portifólio",
+    "descricao" : "Um portifólio bem resumido, só pra destacar os diferentes tipos de trabalhos. Um dia eu consigo fazer ao menos um print de todos os Jobs.",
+    "item1" : "Design Bipmap",
+    "item2" : "Design Vetorial",
+    "item3" : "3D",
+    "item4" : "Design Bipmap",
+    "item5" : "Sistemas",
+    "item6" : "Sites"
+  },
+  "curriculos": {
+    "titulo": "Currículo",
+    "descricao" : "Abaixo meus currículos em 3 versões de profissão:",
+    "profissao1" : "Programador Web",
+    "profissao2" : "Programador Java",
+    "profissao3" : "Professor",
+    "descricao1" : "Aqui reuno as experiências que considerei interessante destacar para a profissão de Programador Web ou Web Design, Web Master, Web Developer, Fazedor de Site, etc.",
+    "descricao2" : "Neste link descrevo itens relacionados a profissão como empresas que trabalhei, cursos, palestras e treinamentos que estive envolvido com Java e CIA.",
+    "descricao3" : "Como minha vida se resume em aprender e ensinar, tenho ensinado bastante, apresento meu curriculum para a área acadêmica, com informações pertinentes a esta área.",
+    "horas-de-pratica" : "Horas de prática (jul/2016)"
+  },
+  "infograficos" : {
+    "titulo" : "Infográficos",
+    "descricao" : "Montei infográficos que representam de forma linear por onde passei, tanto em empresas como em escolas.",
+    "empresas" : "Empresas por onde trabalhei",
+    "escolas" : "Escolas por onde aprendi",
+    "descricao2" : "Você pode rolar esta imagem para direita e esquerda"
+  },
+    "depoimentos" : {
+      "titulo" : "Depoimentos",
+      "descricao" : "Alguns depoimentos de pessoas que marcaram minha vida.",
+      "depoimento1" : "Professor adoro suas aulas pois estou aprendendo muito, acho que você tem um jeito fácil de ensinar. Valeu mesmo, espero que fique com a gente por muito tempo, certo? Fique com Deus e bom fim de semana.",
+      "depoimento2" : "Willians é empenhado em desenvolver atividades em conjunto, Sempre finaliza atividades que assume nos prazos exigidos, também se mostra muito interessado em novos assuntos, gosta de ajudar e não tem medo de Desafios.",
+      "depoimento3" : "Willians foi meu colaborador-professor, num curso tecnico de Informática para Internet e Informática Basica e desenvolveu muito bem suas atribuições chegando até a ultrapassar os conteúdos e atribuições. É uma pessoa muito querida tanto pelos colegas como pelos alunos.",
+      "depoimento4" : "O Willians é um profissional muito dedicado e responsável. Tem bastante sede de aprendizado, e consegue aplicar com facilidade o que aprende quando observa um cenário propício. Gosta de aprender, gosta de ensinar e de parear, o que faz com que sua curva de aprendizado nas tecnologias sejam muito boas. Um ótimo companheiro de trabalho e que sabe trabalhar em equipe, sendo uma pessoa fácil de conviver no dia-a-dia. Foi muito bom o período em que trabalhamos juntos.",
+      "depoimento5" : "Excelente Professor, dinamico, total dominio em sala de aula, boa didática possui conhecimento em todos assuntos que foram abordados, interativo. Sou agradecido pela sua dedicação, profissionalismo e competência."
+  },
+  "contato" : {
+    "titulo" : "Escreve que eu te leio",
+    "descricao" : "Deixe uma mensagem",
+    "nome" : "nome",
+    "nome-erro" : "Como devo lhe chamar?",
+    "telefone" : "telefone",
+    "email" : "email",
+    "email-erro" : "Com teu email eu posso te retornar...",
+    "email-invalido" : "Tem que ser um email válido...",
+    "mensagem" : "mensagem",
+    "mensagem-erro" : "Não vai escrever nada?",
+    "botao" : "enviar a mensagem",
+    "sucesso" : "Mensagem enviada com sucesso."
+  }
+}

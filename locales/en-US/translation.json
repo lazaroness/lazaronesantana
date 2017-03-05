@@ -1,0 +1,115 @@
+{
+  "app": {
+    "name" : "i18next"
+  }
+  ,"geral" : {
+    "resumo" : "Born in São Paulo capital, Willians Martins de Morais holds a Bachelor's degree in Information Systems at Rio Branco Integrated Colleges and MBA in Java SOA Application Development in the Faculty of Informatics and Management Paulista (FIAP). And several classroom courses and distance in areas such as web development, architecture, hardware, electronics, arquitetônic design, screen printing, photoshop and others. With 14 years of experience as instructor Hardware, Computer, Computer Graphic, Mathematics and Web Development and eight years as Web Developer, currently is Professor of undergraduate courses of the Faculty of Informatics and Management Paulista (FIAP) and is a partner in charge of marketing, technology research and strategies in Waiso.",
+    "meu-foco" : "My focus",
+    "foco-descricao" : "Below is a summary of what has been my focus lately.",
+    "foco-qualidade" : "Quality",
+    "foco-qualidade-descricao" : "All my decisions are being based on a single goal, have a quality of life along with my family.",
+    "foco-experiencias" : "Experiences",
+    "foco-experiencias-descricao" : "I have set up several experiments and proof of concept (POC) on frameworks, modules, new tools, innovations deploy, management, code optimization and time.",
+    "foco-disseminador" : "Professor",
+    "foco-disseminador-descricao" : "Some volunteer work, tutoring, school graduation, lectures and distance learning course. I like to always be sharing what I learned with people.",
+    "foco-java" : "Java expertise",
+    "foco-java-descricao" : "Experiencing the phases of Java SE, Java ME and Java EE now. I am fascinated by language and architecture that has been so present in the market, embarked here I come!",
+    "foco-java" : "Java expertise",
+    "foco-java-descricao" : "Experiencing the phases of Java SE, Java ME and Java EE now. I am fascinated by language and architecture that has been so present in the market, embarked here I come!",
+    "direitos" : "Willians Martins - All right reserved"
+  }
+  ,"botao": { 
+    "conhecame": "Know me better",
+    "contato" : "To Say something to me?"
+  }
+  ,"mensagens": {
+    "um" : "Do well and only once",
+    "dois" : "If I can help you, tell me",
+    "tres" : "Fun and coding combine",
+    "quatro" : "Make a difference in people's lives"
+  }
+  ,"link": {
+    "sobremim" : "About me",
+    "portifolio"  : "Portifolio",
+    "trajetorias" : "Way",
+    "curriculos" : "Resumes",
+    "treinamentos" : "Workout",
+    "contato" : "Contact me"
+  },
+  "numeros": {
+    "clientes" : "happy customers",
+    "ataques" : "gastritis attacks",
+    "linhas" : "code lines",
+    "ideias" : "new ideas",
+    "noites" : "nights face",
+    "buscas" : "search on google"
+  },
+  "orgulhos" : {
+    "titulo" : "My recent pride",
+    "descricao" : "A brief description of my recent work I am proud to present.",
+    "orgulho1-titulo" : "Deploy \"automated\"",
+    "orgulho1-descricao" : "I have done some experiments with Jenkins (formerly Hudson), git, ssh and are giving us very well.",
+    "orgulho2-titulo" : "Instâncias in Amazon",
+    "orgulho2-descricao" : "After a long time reluctant, could create instances on amazon (ElasticIP, DNS, Security).",
+    "orgulho3-titulo" : "SSH domain",
+    "orgulho3-descricao" : "At last now not catch more with remote access via ssh tunneling, to the VIM learned to use.",
+    "orgulho4-titulo" : "Git quality",
+    "orgulho4-descricao" : "Without pity and without pain, is now fluid, after making a cherry-pick me feel a hacker! I'm even teaching, kkk."
+  },
+  "frases": {
+    "frase1-descricao" : "Meet all theories, to master all the techniques, but by touching a human soul is just another human soul.",
+    "frase1-autor" : "Carl G. Jung"
+  },
+  "portifolio": {
+    "titulo": "Portfolio",
+    "descricao" : "A portfolio summed up, just to highlight the different types of jobs. One day I can do at least one print of all Jobs.",
+    "item1" : "Design Bipmap",
+    "item2" : "Vetorial Design",
+    "item3" : "3D",
+    "item4" : "Bipmap Design",
+    "item5" : "Sistems",
+    "item6" : "Websites",
+    "exemplos" : "examples"
+  },
+  "curriculos": {
+    "titulo": "Curriculum",
+    "descricao" : "Below my resumes in 3 versions:",
+    "profissao1" : "Web Developer",
+    "profissao2" : "Java Developer",
+    "profissao3" : "Professor",
+    "descricao1" : "Here I herd the experiences that I found interesting to highlight for the profession of Web programmer or Web Design, Web Master, Web Developer, Website Maker, etc.",
+    "descricao2" : "This link describe items related to profession as companies that worked, courses, lectures and training sessions have been involved with Java and CIA.",
+    "descricao3" : "As my life is all about learning and teaching, I have teaching a lot, I present my curriculum for the academic area, with information relevant to this area.",
+    "horas-de-pratica" : "Hours of practicing (jul/2016)"
+  },
+  "infograficos" : {
+    "titulo" : "Infographics",
+    "descricao" : "I set up infographics representing linearly where spent, both in companies and in schools.",
+    "empresas" : "Where I have worked",
+    "escolas" : "Schools where I learned",
+    "descricao2" : "You can roll this to the right and left"
+  },
+    "depoimentos" : {
+      "titulo" : "Testimonials",
+      "descricao" : "Some testimonials from people who marked my life.",
+      "depoimento1" : "Teacher love yours classes because I'm learning a lot, I think you have an easy way of teaching. Thanks a lot, I hope you stay with us for a long time, right? Stay with God and good weekend.",
+      "depoimento2" : "Willians is engaged in developing activities together, always ends activities that takes the required deadlines also shown very interested in new issues, like helping and not afraid of challenges.",
+      "depoimento3" : "Williams was my collaborator teacher, in IT technician course for Internet and Basic Computer and developed very well their responsibilities even surpassing the content and assignments. It is a very dear person by their colleagues and their students.",
+      "depoimento4" : "The Williams is a very dedicated and responsible professional. It has enough thirst for learning, and can easily apply what you learn when you observe a favorable scenario. He likes to learn, likes to teach and pairing, which makes your learning curve in technology are very good. A great co-worker and knows how to work in teams, being an easy person to live on a day-to-day. It was great the period we worked together.",
+      "depoimento5" : "Excellent Teacher, dynamic, full mastery in the classroom, teaching has good knowledge in all subjects that were discussed, interactive. I am grateful for their dedication, professionalism and competence."
+  },
+  "contato" : {
+    "titulo" : "Writes, I read",
+    "descricao" : "Leave a message",
+    "nome" : "name",
+    "nome-erro" : "How should I call you?",
+    "telefone" : "phone",
+    "email" : "email",
+    "email-erro" : "With your email I can reply to you",
+    "email-invalido" : "Tem que ser um email válido...",
+    "mensagem" : "message",
+    "mensagem-erro" : "Don't you write anything?",
+    "botao" : "send the message",
+    "sucesso" : "Message sent successfully."
+  }
+}
