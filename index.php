@@ -82,20 +82,6 @@
             </div>
         </div>
     </section>
-    <div class="ribbon ribbon-bandeiras">
-        <ul>
-            <li>
-                <a class="brasil" href="index.php#portugues" id="btn-pt">
-                    <img src="image/internacionalizacao/brasil.png" alt="Português" title="Português" />
-                </a>
-            </li>
-            <li>
-                <a class="usa" href="index.php#ingles" id="btn-en">
-                    <img src="image/internacionalizacao/usa.png" alt="Inglês" title="Inglês" />
-                </a>
-            </li>
-        </ul>
-    </div>
 
     <script src="javascripts/jquery-1.9.1.min.js"></script>
     <script src="javascripts/bootstrap.min.js"></script>
