@@ -1,14 +1,9 @@
 #!/bin/bash
-path=`pwd`
-notify-send "Lazarone S. Santana" "Server Development is up in the air." -i "$path/image/server.svg"
+zenity --notification --text="Server Development is up in the air."
 
 # URL DA APLICAÇÃO
 #url='192.168.0.17:8000'
 url='localhost:8000'
-
-# ABRINDO O NAVEGADOR NA APLICAÇÃO
-echo "Abrindo o Google Chrome em: $url"
-google-chrome $url &
 
 # SUBINDO O SERVER
 php -S $url
