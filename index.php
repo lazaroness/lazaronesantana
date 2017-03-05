@@ -19,76 +19,46 @@
     </div>
 -->
     <div id="topo">
-      <div id="logo-topo-principal">
-        <img src="imagens/logo_70.png" />
-      </div>
-      <div id="menu-topo-principal">
-  	<ul>
-  	  <li class="itens" id="item-1">
-  	    <a href="#secao-1">
-          Home
-          <div class="seta-identificacao"></div>
-        </a>
-  	  </li>
-  	  <li class="itens" id="item-2">
-  	    <a href="#secao-2">
-          Downloads
-          <div class="seta-identificacao"></div>
-        </a>
-  	  </li>
-  	  <li class="itens" id="item-3">
-  	    <a href="#secao-3">
-          Projetos
-          <div class="seta-identificacao"></div>
-        </a>
-  	  </li>
-  	  <li class="itens" id="item-4">
-  	    <a href="#secao-4">
-          Seção 4
-          <div class="seta-identificacao"></div>
-        </a>
-  	  </li>
-  	  <li class="itens" id="item-5">
-  	    <a href="#secao-5">
-          Seção 5
-          <div class="seta-identificacao"></div>
-        </a>
-  	  </li>
-  	</ul>
-      </div>
+        <div id="logo-topo-principal">
+            <h1><a href="#secao-1">LazaroneSantosSantana</a></h1>
+        </div>
+        <div id="menu-topo-principal">
+            <ul>
+                <li class="itens" id="item-1">
+                    <a href="#secao-1">Home<div class="seta-identificacao"></div></a>
+                </li>
+                <li class="itens" id="item-2">
+                    <a href="#secao-2">Downloads<div class="seta-identificacao"></div></a>
+                </li>
+                <li class="itens" id="item-3">
+                    <a href="#secao-3">Projetos<div class="seta-identificacao"></div></a>
+                </li>
+                <li class="itens" id="item-4">
+                    <a href="#secao-4">Seção 4<div class="seta-identificacao"></div></a>
+                </li>
+                <li class="itens" id="item-5">
+                    <a href="#secao-5">Seção 5<div class="seta-identificacao"></div></a>
+                </li>
+            </ul>
+        </div>
     </div>
-    <div id="margem-topo">
-    </div>
+    <div id="margem-topo"></div>
     <div id="secao-1" class="secao">
+        <h1>secao-1</h1>
     </div>
     <div id="secao-2" class="secao">
-    <div>
-      <h1>Downloads</h1>
+        <h1>secao-2</h1>
     </div>
-    <div id="lado-secao-esq">
-      Este é um projeto do Charon, onde coloco o link para o youtube. Youtube.com.br/MeuCanal
+    <div id="secao-3" class="secao">
+      <h1>secao-3</h1>
     </div>
-    <div id="lado-secao-dir">
-      <img src="imagens/rhea.png" />
+    <div id="secao-4" class="secao">
+        <h1>secao-4</h1>
     </div>
-  </div>
-  <div id="secao-3" class="secao">
-    <div>
-      <h1>Projetos</h1>
+    <div id="secao-5" class="secao">
+        <h1>secao-5</h1>
     </div>
-    <div id="lado-secao-esq">
-      <img src="imagens/rhea.png" />
+    <div id="rodape">
     </div>
-    <div id="lado-secao-dir">
-      Este é um projeto do Charon, onde coloco o link para o youtube. Youtube.com.br/MeuCanal
-    </div>
-  </div>
-  <div id="secao-4" class="secao">
-</div>
-<div id="secao-5" class="secao">
-</div>
-<div id="rodape"> 
-</div>
-  <body>
   </body>
 </html>
