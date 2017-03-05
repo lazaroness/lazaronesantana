@@ -1,143 +1,143 @@
 *{
-margin: 0;
-	    padding: 0;
-	    border: 0;
-	    font-family: 'Quicksand', sans-serif;
-    }
-    
-    ol, ul {
-	  list-style: none;
-    }
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+  
+ol, ul {
+    list-style: none;
+}
 
-  	#topo{
-      width: 100%;
-      background-color: #2a3d51;
-      height: 75px;
-      display: table;
-      position: fixed;
-      z-index: 999;
-  	}
+#topo{
+    width: 100%;
+    background-color: #2a3d51;
+    height: 75px;
+    display: table;
+    position: fixed;
+    z-index: 999;
+}
 
-    #margem-topo{
-      height: 100px;
-    }
+#margem-topo{
+    height: 100px;
+}
 
-  	#logo-topo-principal{
-  	  width: 35%;
-  	  height: 75px;
-  	  display: table-cell;
-      text-align: center;
-      vertical-align: middle;
-  	}
+#logo-topo-principal{
+    width: 35%;
+    height: 75px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
 
-  	#menu-topo-principal{
-      width: 65%;
-      height: 100%;
-      display: table-cell;
-      vertical-align: bottom;
-      padding-bottom: 10px;
-  	}
+#menu-topo-principal{
+    width: 65%;
+    height: 100%;
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom: 10px;
+}
 
-  	#menu-topo-principal a{
-  	  color: white;
-  	  font-weight: bold;
-  	}
+#menu-topo-principal a{
+    color: white;
+    font-weight: bold;
+}
 
-  	#menu-topo-principal .itens{
-      float: left;
-      width: 20%;
-      position: relative;
-      text-align: center;
-  	}
+#menu-topo-principal .itens{
+    float: left;
+    width: 20%;
+    position: relative;
+    text-align: center;
+}
 
-    #menu-topo-principal .seta-identificacao{
-      position: absolute;
-      width: 0px;
-      height: 0px;
-      z-index: 999;
-      left: 0;
-      right: 0;
-      margin: auto;
-      border-top: 10px solid black; 
-      border-left: 20px solid transparent; 
-      border-right: 20px solid transparent; 
-      border-bottom: 10px solid transparent;
-      display: none; 
-      bottom: -30px;
-    }
+#menu-topo-principal .seta-identificacao{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    z-index: 999;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-top: 10px solid black; 
+    border-left: 20px solid transparent; 
+    border-right: 20px solid transparent; 
+    border-bottom: 10px solid transparent;
+    display: none; 
+    bottom: -30px;
+}
 
-    #menu-topo-principal #item-1 .seta-identificacao{
-      display: block;
-    }
+#menu-topo-principal #item-1 .seta-identificacao{
+    display: block;
+}
 
-  	#secao-1{
-      width: 100%;
-      background-color: #f1f1f1;
-      height: 500px;
-  	}
+#secao-1{
+    width: 100%;
+    background-color: #f1f1f1;
+    height: 500px;
+}
 
-  	#secao-2{
-      width: 100%;
-      background-color: white;
-      height: 500px;
-  	}
+#secao-2{
+    width: 100%;
+    background-color: white;
+    height: 500px;
+}
 
-  	#secao-3{
-      width: 100%;
-      background-color: #f1f1f1;
-      height: 500px;
-  	}
+#secao-3{
+    width: 100%;
+    background-color: #f1f1f1;
+    height: 500px;
+}
 
-  	#secao-4{
-      width: 100%;
-      background-color: white;
-      height: 500px;
-  	}
+#secao-4{
+    width: 100%;
+    background-color: white;
+    height: 500px;
+}
 
-  	#secao-5{
-      width: 100%;
-      background-color: #f1f1f1;
-      height: 500px;
-  	}
+#secao-5{
+    width: 100%;
+    background-color: #f1f1f1;
+    height: 500px;
+}
 
-    .secao{
-      position: relative;
-      padding-bottom: 20px;
-    }
+.secao{
+    position: relative;
+    padding-bottom: 20px;
+}
 
-    .secao h1{
-      width: 100%;
-      text-align: center;
-      padding-bottom: 20px;
-      padding-top: 20px;
-      font-size: 48px;
-      color: #383737;
-    }
+.secao h1{
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 48px;
+    color: #383737;
+}
 
-    #lado-secao-esq{
-      position: absolute;
-      display: table-cell;
-      vertical-align: middle;
-      width: 40%;
-      left: 10%;
-      text-align: left;
-    }
+#lado-secao-esq{
+    position: absolute;
+    display: table-cell;
+    vertical-align: middle;
+    width: 40%;
+    left: 10%;
+    text-align: left;
+}
 
-    #lado-secao-esq img, #lado-secao-dir img{
-      height: 400px;
-    }
+#lado-secao-esq img, #lado-secao-dir img{
+    height: 400px;
+}
 
-    #lado-secao-dir{
-      position: absolute;
-      display: table-cell;
-      vertical-align: middle;
-      width: 40%;
-      right: 10%;
-      text-align: right;
-    }
+#lado-secao-dir{
+    position: absolute;
+    display: table-cell;
+    vertical-align: middle;
+    width: 40%;
+    right: 10%;
+    text-align: right;
+}
 
-  	#rodape{
-  	  width: 100%;	
-  	  background-color: #2a3d51;
-  	  height: 75px;
-  	}
+#rodape{
+    width: 100%;	
+    background-color: #2a3d51;
+    height: 75px;
+}
