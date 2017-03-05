@@ -38,10 +38,10 @@
                     <a href="#secao-1">Home<div class="seta-identificacao"></div></a>
                 </li>
                 <li class="itens" id="item-2">
-                    <a href="#secao-2">Downloads<div class="seta-identificacao"></div></a>
+                    <a href="#secao-2">Seção 2<div class="seta-identificacao"></div></a>
                 </li>
                 <li class="itens" id="item-3">
-                    <a href="#secao-3">Projetos<div class="seta-identificacao"></div></a>
+                    <a href="#secao-3">Seção 3<div class="seta-identificacao"></div></a>
                 </li>
                 <li class="itens" id="item-4">
                     <a href="#secao-4">Seção 4<div class="seta-identificacao"></div></a>
