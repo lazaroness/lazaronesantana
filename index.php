@@ -9,6 +9,11 @@
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     <link href="stylesheets/stylesheets.css" rel="stylesheet">
 
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lilita+One' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans+SC' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
     <link href="stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="stylesheets/animate.css" rel="stylesheet" type="text/css">
@@ -62,14 +67,34 @@
     <div id="secao-5" class="secao">
         <h1>secao-5</h1>
     </div>
-    <div id="rodape">
+    <section id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 scrollpoint sp-effect3">
+                    <ul class="brands brands-inline">
+                        <li><a href="http://www.facebook.com/professorwillians" ><i class="fa fa-facebook  hi-icon-effect-8"></i></a></li>
+                        <li><a href="https://twitter.com/williansmartins" ><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://plus.google.com/u/0/117061222511256147189" ><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="http://br.linkedin.com/in/williansmartins" ><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                    <p>© <span>Lazarone S. Santana - All right reserved</span></p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="ribbon ribbon-bandeiras">
         <ul>
-            <li><a href="http://www.facebook.com/professorwillians" >Facebook<i class="fa fa-facebook  hi-icon-effect-8"></i></a></li>
-            <li><a href="https://twitter.com/williansmartins" >Twitter<i class="fa fa-twitter"></i></a></li>
-            <li><a href="https://plus.google.com/u/0/117061222511256147189" >Google-Plus <i class="fa fa-google-plus"></i></a></li>
-            <li><a href="http://br.linkedin.com/in/williansmartins" >Linkedin <i class="fa fa-linkedin"></i></a></li>
+            <li>
+                <a class="brasil" href="index.php#portugues" id="btn-pt">
+                    <img src="image/internacionalizacao/brasil.png" alt="Português" title="Português" />
+                </a>
+            </li>
+            <li>
+                <a class="usa" href="index.php#ingles" id="btn-en">
+                    <img src="image/internacionalizacao/usa.png" alt="Inglês" title="Inglês" />
+                </a>
+            </li>
         </ul>
-        <p>© <span>Lazarone S. Santana - All right reserved</span></p>
     </div>
 
     <script src="javascripts/jquery-1.9.1.min.js"></script>
