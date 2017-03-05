@@ -139,5 +139,9 @@ ol, ul {
 #rodape{
     width: 100%;	
     background-color: #2a3d51;
-    height: 75px;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+    font-weight: bold;
 }

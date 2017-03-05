@@ -59,6 +59,7 @@
         <h1>secao-5</h1>
     </div>
     <div id="rodape">
+        <p>© <span>Lazarone S. Santana - All right reserved</span></p>
     </div>
   </body>
 </html>
