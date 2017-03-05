@@ -26,7 +26,8 @@
     <script src="javascripts/jquery-1.8.2.min.js" type="text/javascript"></script>
     <script src="javascripts/javascripts.js" type="text/javascript"></script>
   </head>
-  <body>
+  <body id="page-top" data-page="home">
+    <a href="index.php#page-top" class="scroll-up scroll"><i class="fa fa-chevron-up"></i></a>
     <div id="topo">
         <div id="logo-topo-principal">
             <h1><a href="#secao-1">LazaroneSantosSantana</a></h1>
