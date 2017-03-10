@@ -1,9 +1,9 @@
 # lazaronesantana
-# Version: 20170305
+# Version: 20170310
 git clone git@github.com:lazaroness/lazaronesantana.git
 
 Lazarone S. Santana
 
-www.lazaronesantana.com
+https://www.lazaronesantana.com
 
 lazarone.info.web@gmail.com
