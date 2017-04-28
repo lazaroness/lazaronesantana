@@ -38,16 +38,16 @@
                     <a href="#secao-1">Home<div class="seta-identificacao"></div></a>
                 </li>
                 <li class="itens" id="item-2">
-                    <a href="#secao-2">Seção 2<div class="seta-identificacao"></div></a>
+                    <a href="#secao-2">Portfolio<div class="seta-identificacao"></div></a>
                 </li>
                 <li class="itens" id="item-3">
-                    <a href="#secao-3">Seção 3<div class="seta-identificacao"></div></a>
+                    <a href="#secao-3">Curriculum<div class="seta-identificacao"></div></a>
                 </li>
                 <li class="itens" id="item-4">
-                    <a href="#secao-4">Seção 4<div class="seta-identificacao"></div></a>
+                    <a href="#secao-4">Contato<div class="seta-identificacao"></div></a>
                 </li>
                 <li class="itens" id="item-5">
-                    <a href="#secao-5">Seção 5<div class="seta-identificacao"></div></a>
+                    <a href="#secao-5">Download<div class="seta-identificacao"></div></a>
                 </li>
             </ul>
         </div>
