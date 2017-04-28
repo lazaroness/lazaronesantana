@@ -14,7 +14,7 @@
     <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans+SC' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 
-    <link href="stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css">
+<!--    <link href="stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css"> -->
     <link href="stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="stylesheets/animate.css" rel="stylesheet" type="text/css">
     <link href="stylesheets/creative-brands.css" rel="stylesheet" type="text/css">
