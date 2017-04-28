@@ -20,7 +20,7 @@
     <link href="stylesheets/creative-brands.css" rel="stylesheet" type="text/css">
     <link href="stylesheets/vertical-carousel.css" rel="stylesheet" type="text/css">
     <link href="stylesheets/custom.css" rel="stylesheet" type="text/css">
-    <link href="stylesheets/mine.css" rel="stylesheet" type="text/css">
+<!--    <link href="stylesheets/mine.css" rel="stylesheet" type="text/css"> -->
     <link href="stylesheets/colorbox.css" rel="stylesheet" type="text/css">
 
     <script src="javascripts/jquery-1.8.2.min.js" type="text/javascript"></script>
