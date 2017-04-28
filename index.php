@@ -95,6 +95,6 @@
     <script src="javascripts/jqBootstrapValidation.js"></script>
     <script src="javascripts/jquery.colorbox.js"></script>
     <script src="javascripts/custom.js"></script>
-    <script src="javascripts/mine.js"></script>
+<!--    <script src="javascripts/mine.js"></script> -->
   </body>
 </html>
