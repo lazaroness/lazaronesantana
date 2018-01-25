@@ -7,3 +7,5 @@
 ```
 git clone git@github.com:lazaroness/lazaronesantana.git
 ```
+
+[![Lazarone S. Santana](./images/photo.jpg)](http://lazaronesantana.com)
