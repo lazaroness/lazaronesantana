@@ -5,6 +5,7 @@
     <link rel='shortcut icon' href='image/favicon.ico' />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Site pessoal do programador Lazarone Santos Santana, desenvolverdor Ruby on Rails e Lua(Charon Platform)" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     <link href="stylesheets/stylesheets.css" rel="stylesheet">
