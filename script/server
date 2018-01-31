@@ -1,10 +1,8 @@
 #!/bin/bash
-zenity --notification --text="Server Development is up in the air."
 
 # URL DA APLICAÇÃO
-#url='192.168.0.17:8000'
 #url='localhost:8000'
-url='192.168.100.13:8000'
+url='192.168.0.22:8000'
 
 # SUBINDO O SERVER
 php -S $url
