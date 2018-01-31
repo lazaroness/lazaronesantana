@@ -76,7 +76,6 @@
                         <li><a href="https://github.com/lazaroness" target="_blank" ><i class="fa fa-github"></i></a></li>
 			<li><a href="https://www.linkedin.com/in/lazarone-s-santana-66962464/" target="_blank" ><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="https://www.facebook.com/Santos.Lazarone" target="_blank"><i class="fa fa-facebook  hi-icon-effect-8"></i></a></li>
-                        <li><a href="https://plus.google.com/u/0/+LazaroneSantos" target="_blank"><i class="fa fa-google-plus"></i></a></li>
                     </ul>
                     <p>© <span>Lazarone S. Santana - All right reserved</span></p>
                 </div>
