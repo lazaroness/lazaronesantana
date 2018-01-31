@@ -15,7 +15,7 @@
     <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans+SC' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 
-<!--    <link href="stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css"> -->
+    <link href="stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="stylesheets/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="stylesheets/animate.css" rel="stylesheet" type="text/css">
     <link href="stylesheets/creative-brands.css" rel="stylesheet" type="text/css">
@@ -41,13 +41,10 @@
                     <a href="#secao-2">Portfolio<div class="seta-identificacao"></div></a>
                 </li>
                 <li class="itens" id="item-3">
-                    <a href="#secao-3">Curriculum<div class="seta-identificacao"></div></a>
+                    <a href="#secao-3">Contato<div class="seta-identificacao"></div></a>
                 </li>
                 <li class="itens" id="item-4">
-                    <a href="#secao-4">Contato<div class="seta-identificacao"></div></a>
-                </li>
-                <li class="itens" id="item-5">
-                    <a href="#secao-5">Download<div class="seta-identificacao"></div></a>
+                    <a href="#secao-4">Download<div class="seta-identificacao"></div></a>
                 </li>
             </ul>
         </div>
@@ -65,16 +62,13 @@
     <div id="secao-4" class="secao">
         <h1>secao-4</h1>
     </div>
-    <div id="secao-5" class="secao">
-        <h1>secao-5</h1>
-    </div>
     <section id="footer">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 scrollpoint sp-effect3">
-		    <ul class="brands brands-inline">
+		                <ul class="brands brands-inline">
                         <li><a href="https://github.com/lazaroness" target="_blank" ><i class="fa fa-github"></i></a></li>
-			<li><a href="https://www.linkedin.com/in/lazarone-s-santana-66962464/" target="_blank" ><i class="fa fa-linkedin"></i></a></li>
+			                  <li><a href="https://www.linkedin.com/in/lazarone-s-santana-66962464/" target="_blank" ><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="https://www.facebook.com/Santos.Lazarone" target="_blank"><i class="fa fa-facebook  hi-icon-effect-8"></i></a></li>
                     </ul>
                     <p>© <span>Lazarone S. Santana - All right reserved</span></p>
