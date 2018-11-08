@@ -2,7 +2,7 @@
 
 **Lazarone S. Santana** - <lazarone.info.web@gmail.com> - [lazaronesantana.com](http://lazaronesantana.com)
 
-* Version: 20180125
+* Version: 20181108
 
 ```
 git clone git@github.com:lazaroness/lazaronesantana.git
